@@ -1,6 +1,6 @@
 # youtube-electron
 A electron app for YouTube on Windows built with nativifier. 
-Built around the Firefox useragent allowing for login with all credentials being stored locally within the zip file.
+Built around the Firefox useragent allowing for login with all credentials being stored locally within the install directory
 
 **#Installation/Usage**
 
