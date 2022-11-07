@@ -1,6 +1,7 @@
 # youtube-electron
-A electron app for YouTube on Windows built with nativifier. 
+A electron app for YouTube on Windows built with [nativifier](https://github.com/nativefier/nativefier). 
 Built around the Firefox useragent allowing for login with all credentials being stored locally within the install directory
+I most likely won't be updating much simply due to the fact I really don't NEED to unless Google drastically changes url bases. If there are features you would like to see please code them and send a push through for it to be added, I don't really know anything about Electron or coding for it, I simply built this app using [nativefier](https://github.com/nativefier/nativefier) in order to have a desktop app for YouTube
 
 **#Installation/Usage**
 
