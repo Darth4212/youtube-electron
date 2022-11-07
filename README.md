@@ -22,5 +22,6 @@ Example of app running on Windows 11 with account sign in enabled
 **FEATURES**
 There more be more in the future depending on what I find/what other people contribute:
 
-*Saved sign in*
-*Ad Removal*
+Saved sign in
+
+Ad Removal
