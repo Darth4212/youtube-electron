@@ -20,6 +20,7 @@ Simply download the release from the releases page, run YouTube Electron.exe and
 Example of app running on Windows 11 with account sign in enabled
 
 **FEATURES**
+
 There more be more in the future depending on what I find/what other people contribute:
 
 Saved sign in
